@@ -9,7 +9,7 @@ namespace AVDEV___Погода
 {
     public partial class Form1 : Form
     {
-        private const string ApiKey = "8da531ab7b66b86e8bc4f769deb25e52";
+        private const string ApiKey = "YOUR_OPENWEATHERAPI_KEY";
         private const string ApiBaseUrl = "http://api.openweathermap.org/data/2.5/weather";
 
         public Form1()
