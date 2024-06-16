@@ -1,0 +1,22 @@
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\bin\Debug\net6.0-windows\AVDEV - Погода.exe
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\bin\Debug\net6.0-windows\AVDEV - Погода.deps.json
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\bin\Debug\net6.0-windows\AVDEV - Погода.runtimeconfig.json
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\bin\Debug\net6.0-windows\AVDEV - Погода.dll
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\bin\Debug\net6.0-windows\AVDEV - Погода.pdb
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\bin\Debug\net6.0-windows\ru\AVDEV - Погода.resources.dll
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.csproj.AssemblyReference.cache
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV___Погода.Form1.resources
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV___Погода.Form1.ru.resources
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.csproj.GenerateResource.cache
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.AssemblyInfoInputs.cache
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.AssemblyInfo.cs
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\ru\AVDEV - Погода.resources.dll
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - .87EFC7B9.Up2Date
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.dll
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\refint\AVDEV - Погода.dll
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.pdb
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\AVDEV - Погода.genruntimeconfig.cache
+C:\Users\aaa\source\repos\AVDEV - Погода\AVDEV - Погода\obj\Debug\net6.0-windows\ref\AVDEV - Погода.dll

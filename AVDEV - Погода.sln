@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35005.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVDEV - Погода", "AVDEV - Погода\AVDEV - Погода.csproj", "{75AC912A-CD32-48A9-9D88-F2A4E8FEEFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75AC912A-CD32-48A9-9D88-F2A4E8FEEFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AC912A-CD32-48A9-9D88-F2A4E8FEEFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AC912A-CD32-48A9-9D88-F2A4E8FEEFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AC912A-CD32-48A9-9D88-F2A4E8FEEFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {918FEB2A-3999-4EBF-8BE0-3201968531EF}
+	EndGlobalSection
+EndGlobal
